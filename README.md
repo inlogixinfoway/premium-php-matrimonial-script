@@ -1,2 +1,3 @@
 # premium-php-matrimonial-script
-Premium PHP Matrimonial Script - Ready to install and ready to use.
+Laravel-based PHP matrimonial script for building secure, scalable matchmaking websites with modern features and clean architecture.
+PHP matrimonial script for creating online matchmaking platforms with member registration, profile management, and advanced search functionality.
